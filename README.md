@@ -12,19 +12,16 @@ I am Taseen.I am just a lazy person who love to surf online. I dunno any program
 
 ## 📬 Get in touch
 
-- Web: [RedThryssa.xyz][9]
-- Twitter: [twitter.com/t_4_s_u][3]
-- Twitter: [fb.com/tasu.legend][1]
+- Web: <a href="https://RedThryssa.xyz">RedThryssa.xyz</a>
+- Twitter: <a href="https://twitter.com/t_4_s_u">ftwitter.com/t_4_s_u</a>
+- Fb: <a href="https://fb.com/tasu.legend">fb.com/tasu.legend</a>
 
 <a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas33n&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/tas33n/tas33n">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tas33n&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="tas33n's GitHub Stats" />
 </a>
 
-[1]: https://fb.com/tasu.legend
-[2]: 
-[3]: https://twitter.com/t_4_s_u
-[9]: https://Redthryssa.xyz
+
