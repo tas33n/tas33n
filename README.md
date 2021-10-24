@@ -1,7 +1,7 @@
 [![Tas33n](https://scontent.xx.fbcdn.net/v/t1.6435-9/80264330_575654023229711_7984541097449750528_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=19026a&_nc_ohc=ZAU2oaRZYsoAX_5_JJv&_nc_ht=scontent.xx&oh=6f0d66bed844e56fbf052033b0205b02&oe=619B776F)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=tas33n&color=FAC151)][1]
-<!--[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
+<!--[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][github.com/tas33n]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
 [![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11] -->
 
