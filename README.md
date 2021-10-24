@@ -13,11 +13,11 @@ I am Taseen.I am just a lazy person who love to surf online. I dunno any program
 ## 📬 Get in touch
 
 - Web: <a href="https://RedThryssa.xyz">RedThryssa.xyz</a>
-- Twitter: <a href="https://twitter.com/t_4_s_u">ftwitter.com/t_4_s_u</a>
+- Twitter: <a href="https://twitter.com/t_4_s_u">twitter.com/t_4_s_u</a>
 - Fb: <a href="https://fb.com/tasu.legend">fb.com/tasu.legend</a>
 
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas33n&hide=java,html&title_color=000000&text_color=000000" />
+<a href="https://github.com/tas33n/tas33n">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas33n&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/tas33n/tas33n">
