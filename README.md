@@ -5,6 +5,11 @@
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
 [![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
 
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=tas33n&show_icons=true&theme=radical&cache_seconds=3000&hide=contribs&include_all_commits=true&count_private=true&show_owner=true&layout=compact&hide_border=true&custom_title=GITHUB+STATUS:">
+</p>
+
 Hey 👋🏻,
 
 I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
