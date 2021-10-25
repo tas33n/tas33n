@@ -13,7 +13,7 @@
 
 Hey 👋🏻,
 
-I am Taseen.I am just a lazy person who love to surf online. I dunno any programming but i can build and design website, still noob though. My hobby is trying to do something new. But i get bord after accomplishing something new so i throw it away after sometime. Love to do little things like building website, cracking android app, sometime video editing, helping my online friends and more.
+I am Taseen.I am a lazy person who love to surf online. I dunno any programming language but i can build and design website, still noob though. My hobby is trying to do something new. But i get bord after accomplishing something new so i throw it away after sometime. Love to do little things like building website, cracking android app, sometime video editing, helping my online friends and more.
 
 ## 📬 Get in touch
 
