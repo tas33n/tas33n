@@ -1,7 +1,7 @@
 <h1 align="center">~⋆* ✨ 𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 ✨ *⋆~</h1>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/43749971/136463873-3d846b12-3fec-49e6-945a-514edbd146af.gif">
+  <img src="https://camo.githubusercontent.com/cdca2ba26f7ff6d3389d4c45f2d5099ee85b2d8c9c3e1daeb9e25ddf8d6cd6af/68747470733a2f2f73636f6e74656e742e78782e666263646e2e6e65742f762f74312e363433352d392f38303236343333305f3537353635343032333232393731315f373938343534313039373434393735303532385f6e2e6a70673f5f6e635f6361743d313035266363623d312d35265f6e635f7369643d313930323661265f6e635f6f68633d5a4155326f61525a59736f41585f355f4a4a76265f6e635f68743d73636f6e74656e742e7878266f683d3666306436366265643834346535366662663035323033336230323035623032266f653d3631394237373646">
 </div>
 
 <p align="center">🎵 𝙎𝙝𝙞𝙣𝙮 𝙨𝙬𝙤𝙧𝙙 𝙢𝙮 𝙙𝙞𝙖𝙢𝙤𝙣𝙙 🎵</p>
@@ -11,11 +11,13 @@
 <img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
 
 <ul>
-  <li>🔭 I’m currently working on something cool 🚀!</li>
-  <li>🌱 I’m currently learning <b>Flutter, React, Vue.js and Ruby on Rails</b>.</li>
-  <li>📫 How to reach me: <b><a href="mailto:john.carv.sousa@gmail.com">john.carv.sousa@gmail.com</a></b></li>
+  Hey 👋🏻,
+
+<p> I am Taseen.I am a lazy person who love to surf online. I dunno any programming language but i can build and design website, still noob though. My hobby is trying to do something new. But i get bord after accomplishing something new so i throw it away after sometime. Love to do little things like building website, cracking android app, sometime video editing, helping my online friends and more. </p>
+  
+  <li>🌱 I’m currently tring to learn.</li>
   <li>😄 Pronouns: He/Him</li>
-  <li>⚡ Fun fact: I play guitar <img alt="guitar" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/htc/37/guitar_1f3b8.png" width="16px"></li>
+  
 </ul>
 
 <br>
@@ -28,8 +30,8 @@
 <h2>𝒮𝓉𝒶𝓉𝓈</h2>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEmerson1406&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEmerson1406&layout=compact&langs_count=7&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tas33n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tas33n&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 <h2>𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈 𝒶𝓃𝒹 𝒯𝑜𝑜𝓁𝓈</h2>
@@ -48,16 +50,14 @@
 <h2>𝒞𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
 <div>
-  <a href="https://www.linkedin.com/in/JohnEmerson1406/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/JohnEmerson1406" target="_blank">
+ 
+  <a href="https://www.instagram.com/t_4_s_u/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.gg/JohnEmerson1406#0587" target="blank">
+  <a href="https://discord.gg/tas33n" target="blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
   </a>
-  <a href="mailto:john.carv.sousa@gmail.com">
+  <a href="mailto:tasu.legend@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
