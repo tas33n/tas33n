@@ -72,12 +72,6 @@
 </div>
 
 
-# Total Visitors From 15/11/2021 <script>var today = new Date();
-var dd = String(today.getDate()).padStart(2, '0');
-var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
-var yyyy = today.getFullYear();
-
-today = mm + '/' + dd + '/' + yyyy;
-document.write(today);</script> :
+# Total Visitors From 15/11/2021 :
 
 <br>
