@@ -50,14 +50,19 @@
 <h2>𝒞𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
 <div>
- 
+  <a href="https://fb.com/tasu.legend" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.instagram.com/t_4_s_u/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.gg/tas33n" target="blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="JohnEmerson1406#0587">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Tas33n#0587">
   </a>
   <a href="mailto:tasu.legend@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+    <a href="https://github.com/tas33n" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Tas33n#0587">
   </a>
 </div>
