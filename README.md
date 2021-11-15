@@ -50,6 +50,8 @@
 <h2>𝒞𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
 <div>
+  https://komarev.com/ghpvc/?username=tas33n&label=PROFILE+VIEWS
+
   <a href="https://fb.com/tasu.legend" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
