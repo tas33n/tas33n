@@ -15,7 +15,7 @@
 
 <p> I am Taseen.I am a lazy person who love to surf online. I dunno any programming language but i can build and design website, still noob though. My hobby is trying to do something new. But i get bord after accomplishing something new so i throw it away after sometime. Love to do little things like building website, cracking android app, sometime video editing, helping my online friends and more. </p>
   
-  <li>🌱 I’m currently tring to learn.</li>
+  <li>🌱 I’m currently trying to learn.</li>
   <li>😄 Pronouns: He/Him</li>
   
 </ul>
