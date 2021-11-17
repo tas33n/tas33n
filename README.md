@@ -69,8 +69,8 @@
 </div>
 
 
-# Total Visitors From 15/11/2021 :
-
+# Total Visitors From 15/11/2021 : 
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
 <br>
   <img src="https://profile-counter.glitch.me/tas33n/count.svg" target="_blank">
   
