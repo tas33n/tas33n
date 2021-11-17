@@ -17,7 +17,7 @@
   
   <li>🌱 I’m currently trying to learn.</li>
   <li>😄 Pronouns: He/Him</li>
-  
+  <li> 🌲  <a href="https://tas33n.github.io"> View My Linktree</a></li>
 </ul>
 
 <br>
