@@ -1,10 +1,8 @@
 <h1 align="center">~⋆* ✨ 𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 ✨ *⋆~</h1>
 
-<div align="center">
-  <img src="cvr.jpg">
-</div>
 
 
+<img src="https://user-images.githubusercontent.com/43749971/134393227-26ca48dc-c446-4d55-93d0-5ff4deeb4977.gif" align="right" height="220">
 
 <h2>𝒜𝒷𝑜𝓊𝓉 𝑀𝑒</h2>
 
