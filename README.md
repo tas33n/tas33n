@@ -31,11 +31,11 @@
 
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)
-![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=fff)
+![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=fff)
 
 
 
