@@ -23,7 +23,7 @@
 
 ## 🚉 **Developing Tools&Platforms**
 
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=ff)
+![](https://img.shields.io/badge/Kali-Linux-0078d6?style=flat-square&logo=kali-linux&logoColor=fff)
 ![](https://img.shields.io/badge/Windows-11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
 
