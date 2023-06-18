@@ -19,7 +19,7 @@
 
 - 👯 I’m collaborating on: nothing
 
-- 📫 How to reach me: `echo base64_decode("aHR0cHM6Ly90Lm1lL2xhbWIzcnQ=")`
+- 📫 How to reach me: `echo base64_decode("dC5tZS9sYW1iM3J0")`
 
 ## 🚉 **Developing Tools&Platforms**
 
