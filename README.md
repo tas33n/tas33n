@@ -3,7 +3,7 @@
 ![GitHub Snake](assets/github-contribution-grid-snake.svg)
 
 <a>
-  <img align="right" width="450px" src="./github-metrics.svg" />
+  <img align="right" width="450px" src="assets/tas33n-github-metrics.svg" />
 </a>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 - 👯 I’m collaborating on: nothing
 
-- 📫 How to reach me: `base64.decode(YWRtaW5Ab2Jmcy5kZXY)`
+- 📫 How to reach me: `echo base64_decode("aHR0cHM6Ly90Lm1lL2xhbWIzcnQ=")`
 
 ## 🚉 **Developing Tools&Platforms**
 
