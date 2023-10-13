@@ -13,19 +13,20 @@
 
 ## I'm **Tas33n**
 
-- 🔭 I’m currently working on noting
+- 🔭 I’m currently working on [Saikou](https://github.com/tas33n/saikou) , [MisfitsDev-Api](https://misfitsdev.co/doc)
 
-- 🌱 I’m currently learning: PHP, JavaScript, React and more!
+- 🌱 I’m currently learning: Node.js, React.js, Kotlin and Java!
 
-- 👯 I’m collaborating on: nothing
+- 👯 I’m looking to collaborate on Interesting projects using PHP & Node.js.
 
 - 📫 How to reach me: `echo base64_decode("dC5tZS9sYW1iM3J0")`
 
-## 🚉 **Developing Tools&Platforms**
+## 🚉 **Developing Tools&Platforms** 	
 
 ![](https://img.shields.io/badge/Kali-Linux-0078d6?style=flat-square&logo=kali-linux&logoColor=fff)
 ![](https://img.shields.io/badge/Windows-11-0078d6?style=flat-square&logo=windows&logoColor=fff)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/IDE-Visual%20Studio-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+![](https://img.shields.io/badge/Android-Studio-007acc?style=flat-square&logo=android-studio&logoColor=fff)
 
 ## 🌟 **My Skills**  
 
