@@ -28,8 +28,11 @@ jobs:
 
       - name: Update README with top projects
         run: |
+          echo "Current working directory: $(pwd)"
+          echo "Contents of .github/scripts:"
+          ls -la .github/scripts
           npm install @octokit/rest
-          node .github/scripts/update-top-projects.js
+          node $GITHUB_WORKSPACE/.github/scripts/update-top-projects.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
