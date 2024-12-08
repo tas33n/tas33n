@@ -69,8 +69,8 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 ## 📈 Recent Activity
 
-<!-- RECENT-ACTIVITY:START -->
-<!-- RECENT-ACTIVITY:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
