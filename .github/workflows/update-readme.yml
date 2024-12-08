@@ -29,6 +29,8 @@ jobs:
       - name: Update README with top projects
         run: |
           echo "Current working directory: $(pwd)"
+           echo "LS CHECK:"
+          ls
           echo "Contents of .github/scripts:"
           ls -la .github/scripts
           npm install @octokit/rest
