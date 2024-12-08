@@ -35,6 +35,7 @@ jobs:
           node $GITHUB_WORKSPACE/.github/scripts/update-top-projects.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_WORKSPACE: /home/runner/work/tas33n
 
       - name: Commit changes
         run: |
