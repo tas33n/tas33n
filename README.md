@@ -60,13 +60,8 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 ## 🚀 Recent GitHub Activity
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-<!-- RECENT-ACTIVITY:START -->
-
-<!-- RECENT-ACTIVITY:END -->
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🗂️ Highlighted Projects
 
@@ -79,8 +74,8 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 ## 🐍 Contribution Graph
 
-![GitHub Snake Light](/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/tas33n/tas33n/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/tas33n/tas33n/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 🔝 Top Contributed Repositories
 
@@ -93,32 +88,3 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<style>
-.activity-card {
-  background-color: #2a2a2a;
-  border-radius: 8px;
-  padding: 15px;
-  margin-bottom: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
-}
-
-.activity-card:hover {
-  transform: translateY(-5px);
-}
-
-.activity-card h4 {
-  margin: 0 0 10px 0;
-  color: #58a6ff;
-}
-
-.activity-card p {
-  margin: 0;
-  color: #c9d1d9;
-}
-
-.activity-card .timestamp {
-  font-size: 0.8em;
-  color: #8b949e;
-}
-</style>

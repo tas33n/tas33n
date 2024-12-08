@@ -23,11 +23,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Update README with recent activity'
-          MAX_LINES: 10
-          COMMIT_NAME: 'GitHub Activity Bot'
-          START_MARKER: '<!-- RECENT-ACTIVITY:START -->'
-          END_MARKER: '<!-- RECENT-ACTIVITY:END -->'
-          GH_USERNAME: ${{ github.repository_owner }}
+          MAX_LINES: 5
 
       - name: Install dependencies and update README with top projects
         run: |
