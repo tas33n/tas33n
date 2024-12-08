@@ -59,8 +59,8 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 ## 🐍 Contribution Graph
 
-![GitHub Snake Light](https://github.com/tas33n/tas33n/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/tas33n/tas33n/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 🔝 Top Contributed Repositories
 
