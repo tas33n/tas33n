@@ -1,5 +1,5 @@
-const { Octokit } = require("@octokit/rest");
-const fs = require("fs");
+import { Octokit } from "@octokit/rest";
+import fs from "fs/promises";
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
@@ -21,7 +21,7 @@ async function getTopProjects() {
 async function updateReadme() {
   const topProjects = await getTopProjects();
   
-  let readme = fs.readFileSync('README.md', 'utf8');
+  let readme = await fs.readFile('README.md', 'utf8');
   
   const startToken = '<!-- TOP-PROJECTS-LIST:START -->';
   const endToken = '<!-- TOP-PROJECTS-LIST:END -->';
@@ -33,8 +33,8 @@ async function updateReadme() {
     newContent
   );
   
-  fs.writeFileSync('README.md', readme);
+  await fs.writeFile('README.md', readme);
 }
 
-updateReadme();
+updateReadme().catch(console.error);
 
