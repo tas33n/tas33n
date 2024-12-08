@@ -50,32 +50,45 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
   <img src="https://github-profile-trophy.vercel.app/?username=tas33n&theme=darkhub&no-frame=true&margin-w=15" alt="Tas33n's GitHub Trophies" />
 </p>
 
-## 🔥 Most Active Repository
+
+
+ ## 🔥 Profile Views
+
+ <p align="center">
+  <img width="400px" src="https://count.getloli.com/get/@tas33n?theme=rule34"></img>
+</p>
+
+<!-- ## 🔥 Most Active Repository
 
 <div align="center">
   <a href="https://github.com/tas33n/MostActiveRepo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tas33n&repo=MostActiveRepo&theme=radical" alt="Most Active Repository" />
   </a>
-</div>
+</div> -->
 
-## 🚀 Recent GitHub Activity
+<!-- ## 🚀 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-## 🗂️ Highlighted Projects
+<!-- RECENT-ACTIVITY:START -->
+
+<!-- RECENT-ACTIVITY:END -->
+
+</div> -->
+
+<!-- ## 🗂️ Highlighted Projects
 
 <a href="https://github.com/tas33n/saikou">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tas33n&repo=saikou&theme=radical" />
 </a>
 <a href="https://github.com/tas33n/MisfitsDev-Api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tas33n&repo=MisfitsDev-Api&theme=radical" />
-</a>
+</a> -->
 
 ## 🐍 Contribution Graph
 
-![GitHub Snake Light](https://github.com/tas33n/tas33n/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/tas33n/tas33n/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 🔝 Top Contributed Repositories
 
@@ -88,3 +101,32 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
+<style>
+.activity-card {
+  background-color: #2a2a2a;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.activity-card:hover {
+  transform: translateY(-5px);
+}
+
+.activity-card h4 {
+  margin: 0 0 10px 0;
+  color: #58a6ff;
+}
+
+.activity-card p {
+  margin: 0;
+  color: #c9d1d9;
+}
+
+.activity-card .timestamp {
+  font-size: 0.8em;
+  color: #8b949e;
+}
+</style>
