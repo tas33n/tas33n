@@ -23,9 +23,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Update README with recent activity'
-          MAX_LINES: 5
-          START_MARKER: '<!--START_SECTION:activity-->'
-          END_MARKER: '<!--END_SECTION:activity-->'
+          MAX_LINES: 10
+          COMMIT_NAME: 'GitHub Activity Bot'
+          START_MARKER: '<!-- RECENT-ACTIVITY:START -->'
+          END_MARKER: '<!-- RECENT-ACTIVITY:END -->'
+          GH_USERNAME: ${{ github.repository_owner }}
 
       - name: Install dependencies and update README with top projects
         run: |
@@ -40,7 +42,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add README.md
           git add package.json package-lock.json
-          git commit -m "Update README with top projects" || echo "No changes to commit"
+          git commit -m "Update README with top projects and recent activity" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

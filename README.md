@@ -1,3 +1,5 @@
+# Hello, I'm Tas33n 👋
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Tas33n!;Full+Stack+Developer...;Open+Source+Enthusiast...;Tech+Geek...;Active+Learner/Researcher...;Love+to+learn+new+technologies...&center=true&width=500&height=50" alt="Typing SVG">
 </div>
@@ -48,6 +50,24 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
   <img src="https://github-profile-trophy.vercel.app/?username=tas33n&theme=darkhub&no-frame=true&margin-w=15" alt="Tas33n's GitHub Trophies" />
 </p>
 
+## 🔥 Most Active Repository
+
+<div align="center">
+  <a href="https://github.com/tas33n/MostActiveRepo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tas33n&repo=MostActiveRepo&theme=radical" alt="Most Active Repository" />
+  </a>
+</div>
+
+## 🚀 Recent GitHub Activity
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+<!-- RECENT-ACTIVITY:START -->
+
+<!-- RECENT-ACTIVITY:END -->
+
+</div>
+
 ## 🗂️ Highlighted Projects
 
 <a href="https://github.com/tas33n/saikou">
@@ -67,14 +87,38 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 <!-- TOP-PROJECTS-LIST:START -->
 <!-- TOP-PROJECTS-LIST:END -->
 
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
+<style>
+.activity-card {
+  background-color: #2a2a2a;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.activity-card:hover {
+  transform: translateY(-5px);
+}
+
+.activity-card h4 {
+  margin: 0 0 10px 0;
+  color: #58a6ff;
+}
+
+.activity-card p {
+  margin: 0;
+  color: #c9d1d9;
+}
+
+.activity-card .timestamp {
+  font-size: 0.8em;
+  color: #8b949e;
+}
+</style>
