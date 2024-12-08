@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Tas33n!;Full+Stack+Developer...;Open+Source+Enthusiast...;Tech+Geek...;Active+Learner/Researcher...;Love+to+learn+new+technologies...&center=true&width=500&height=50" alt="Typing SVG">
 </div>
 
-<p align="center">
-  <a href="https://github.com/tas33n?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tas33n?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/tas33n?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tas33n?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/tas33n/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=tas33n&style=for-the-badge&color=blueviolet"/></a>
-</p>
 
 ## 🚀 About Me
 
