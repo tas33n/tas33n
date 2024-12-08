@@ -23,6 +23,8 @@ jobs:
         with:
           COMMIT_MSG: 'Update README with recent activity'
           MAX_LINES: 5
+          START_MARKER: '<!--START_SECTION:activity-->'
+          END_MARKER: '<!--END_SECTION:activity-->'
 
       - name: Update README with top projects
         run: |
