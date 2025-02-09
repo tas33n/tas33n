@@ -12,7 +12,7 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 - 🔭 I'm currently working on ...
 - 🌱 I'm currently learning Node.js, React.js, Next.js and Electron.js
 - 👯 I'm looking to collaborate on interesting projects using PHP & Node.js
-- 📫 How to reach me: `echo base64_decode("dC5tZS9sYW1iM3J0")`
+- 📫 How to reach me: ```javascript: alert(atob("aHR0cHM6Ly90Lm1lL2xhbWIzcnQ="));```
 
 ## 🛠️ Technologies & Tools
 
