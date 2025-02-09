@@ -52,8 +52,8 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 ## 🐍 Contribution Graph
 
-![GitHub Snake Light](/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <p align="center">
