@@ -1,7 +1,7 @@
 # Hello, I'm Tas33n 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Tas33n!;Full+Stack+Developer...;Open+Source+Enthusiast...;Tech+Geek...;Active+Learner/Researcher...;Love+to+learn+new+technologies...&center=true&width=500&height=50" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Tas33n!;Full+Stack+Developer...;Open+Source+Enthusiast...;Tech+Geek...;Active+Learne[...]" />
 </div>
 
 
@@ -41,7 +41,6 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tas33n&theme=darkhub&no-frame=true&margin-w=15" alt="Tas33n's GitHub Trophies" />
 </p>
-
 
 
  ## 🔥 Profile Views
